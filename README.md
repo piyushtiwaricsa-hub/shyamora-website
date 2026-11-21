@@ -1,6 +1,6 @@
 # SHYAMORA Seller Solutions — GitHub Pages
 
-This repository is a static HTML website for SHYAMORA Seller Solutions. The published site remains compatible with GitHub Pages; no build step, package installation, paid API, or external JavaScript library is required.
+This repository is a static HTML website for SHYAMORA Seller Solutions, an India-focused e-commerce operations support company. GitHub Pages deployment remains static; no build step, package installation, paid API, or external JavaScript library is required.
 
 ## Publish
 
@@ -22,8 +22,9 @@ If FormSubmit is not suitable, configure a form provider or serverless endpoint 
 
 ## Before launch
 
-- Confirm that the published starting-price references (₹7,999, ₹14,999 and ₹24,999 per month), service scope, working hours, and any final quotations are commercially accurate. Prices are not unlimited commitments; taxes extra where applicable.
+- Confirm that the published INR starting prices (₹7,999, ₹14,999 and ₹24,999 per month), enterprise scope, service details, working hours, and any final quotations are commercially accurate. Plans are starting prices, not unlimited commitments; applicable taxes are extra.
 - Confirm that `shyamorasellersolutions@gmail.com` and WhatsApp `+91 9302373454` are current.
+- Shopify, Amazon, Flipkart, Meesho, Delhivery and Shiprocket are mentioned as examples of platforms/ecosystems only; the site does not claim official partnerships or integrations.
 - Review the privacy and terms notices for the jurisdictions and data practices that apply to your business; they are general website notices, not legal advice.
 - Test the enquiry endpoint after activating it. Until FormSubmit activation is complete, the form cannot deliver enquiries.
 
